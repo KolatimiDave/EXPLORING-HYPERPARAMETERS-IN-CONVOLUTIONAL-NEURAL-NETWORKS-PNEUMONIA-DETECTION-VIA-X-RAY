@@ -15,8 +15,8 @@ All experiments were executed on **Kaggle Notebooks** with a **NVIDIA Tesla P100
 The full Kaggle notebooks, along with this GitHub repository, are publicly available for full reproducibility.
 
 **Hyperparameter optimization techniques used:**
-- **Random Search**
 - **Grid Search**
+- **Random Search** (Optuna)
 - **Bayesian Optimization** (Optuna)
 
 ---
