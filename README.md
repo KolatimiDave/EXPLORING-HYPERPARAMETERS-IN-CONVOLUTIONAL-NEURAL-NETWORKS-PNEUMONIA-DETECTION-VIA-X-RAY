@@ -8,6 +8,11 @@ The project systematically investigates the impact of various hyperparameters on
 ## 📄 Project Overview
 This work explores the effect of learning rate, batch size, dropout rate, number of epochs, and optimizer choice on CNN performance. Multiple architectures were evaluated, including **VGG16, ResNet50, InceptionV3, and MobileNetV2**, using transfer learning.
 
+
+All experiments were executed on **Kaggle Notebooks** with a **NVIDIA Tesla P100 GPU** runtime for accelerated training.  
+The full Kaggle notebooks, along with this GitHub repository, are publicly available for full reproducibility.
+
+
 Experiments were conducted with:
 - **Grid Search**
 - **Random Search**
