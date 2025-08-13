@@ -1,6 +1,3 @@
-Here's the complete markdown code for you to copy and paste:
-
-```markdown
 # Exploring Hyperparameters in Convolutional Neural Networks: Pneumonia Detection via X-ray
 
 This repository contains the complete source code, configurations, and experimental scripts for the research project **"Exploring Hyperparameters in Convolutional Neural Networks: Pneumonia Detection via X-ray"**.
@@ -96,6 +93,3 @@ If you use this code in your research or project, please cite it as follows:
 **IEEE format:**
 
 [1] D. Olukolatimi, "Exploring Hyperparameters in Convolutional Neural Networks – Complete Source Code," GitHub repository, Aug. 13, 2025. [Online]. Available: https://github.com/KolatimiDave/EXPLORING-HYPERPARAMETERS-IN-CONVOLUTIONAL-NEURAL-NETWORKS-PNEUMONIA-DETECTION-VIA-X-RAY (Accessed: 13 August 2025).
-```
-
-Just copy this entire code block and paste it into your GitHub README.md file. It should render perfectly with all the proper formatting, emojis, code blocks, and links.
